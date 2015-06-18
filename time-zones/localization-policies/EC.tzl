@@ -1,1 +1,1 @@
-EC:	-18000 America/Guayaquil America/Guayaquil	-21600 Pacific/Galapagos Pacific/Galapagos	ECT America/Guayaquil America/Guayaquil	GALT Pacific/Galapagos Pacific/Galapagos!Pacific/Galapagos:	@GALT	|-21600 -21600America/Guayaquil:	@ECT	|-18000 -18000!
+EC:	-21600 Pacific/Galapagos Pacific/Galapagos	-18000 America/Guayaquil America/Guayaquil	GALT Pacific/Galapagos Pacific/Galapagos	ECT America/Guayaquil America/Guayaquil!Pacific/Galapagos:	@GALT	|-21600 -21600America/Guayaquil:	@ECT	|-18000 -18000!
